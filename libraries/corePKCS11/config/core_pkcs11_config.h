@@ -115,7 +115,7 @@
 /**
  * @brief ESP32 NVS Partition where PKCS #11 data is stored
  */
-#define pkcs11configSTORAGE_PARTITION  "nvs"
+#define pkcs11configSTORAGE_PARTITION  "storage"
 
 /**
  * @brief ESP32 NVS namespace for PKCS #11 data
